@@ -6,7 +6,8 @@
 Поместите файл process.py и model.h5 в нутрь папки со средой python /even/python/process.py
 
 # Build the cnn model
-Модель использует 3 слоя для извлечения карты признаков и один для класификации
+Модель использует 3 слоя для извлечения карты признаков и один для класификации. Обученную модель можно скачать по ссылке
+https://drive.google.com/file/d/1ea4VzKWG3b35foPCi81YhBIwSfIMirBk/view?usp=sharing
 
 ![flatten.jpg](https://github.com/Valdert-13/NtechLab/blob/master/img/3%20conv%20%2B%201%20flatten.jpg)
 ```python
