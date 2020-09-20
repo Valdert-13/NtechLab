@@ -37,7 +37,8 @@ model.add(Dense(2, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
 ```
 #Резултат
-Точность модели составила 0.975
+
+Точность модели составила 0.975. Обучение было остановленно на 43/50 эпохе
 
 ![Screenshot](https://github.com/Valdert-13/NtechLab/blob/master/img/Screenshot%202020-09-20%20120320.jpg)
 
